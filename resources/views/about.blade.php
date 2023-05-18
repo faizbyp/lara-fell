@@ -10,6 +10,18 @@
   <title>About</title>
 </head>
 <body>
-  <h1 class="text-center my-3 fw-bold">About</h1>
+  <h1 class="text-center py-3 fw-bold bg-danger text-white">About Me</h1>
+
+  <section class="container">
+    <div class="row align-items-center text-center">
+      <div class="col">
+        <h1>Halo!</h1>
+      </div>
+      <div class="col">
+        <h3>Nama saya <?= $name ?></h3>
+        <p><?= $nim ?></p>
+      </div>
+    </div>
+  </section>
 </body>
 </html>

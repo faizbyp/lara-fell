@@ -10,6 +10,6 @@
   <title>Larafell</title>
 </head>
 <body>
-  <h1 class="text-center my-3 fw-bold">Larafell Site</h1>
+  <h1 class="text-center py-3 fw-bold bg-danger text-white">Larafell Site</h1>
 </body>
 </html>
